@@ -1,0 +1,19 @@
+﻿idProducto,nombre,idCategoria,idMarca,stock,precioUsd
+11,Tequila Don Julio Blanco 750ml,3,101,41,19.99
+12,Tequila Don Julio Reposado 700ml,3,101,124,29.99
+13,Tequila Don Julio 70 Cristalino 700ml,3,101,121,49.99
+14,Tequila Gran Centenario Reposado 700ml,3,102,32,14.99
+15,Tequila Gran Centenario Plata Blanco 700ml,3,102,20,19.99
+16,Tequila Maestro Dobel Diamante 700ml,3,103,9,71.99
+17,Vodka Smirnoff Triple Destilado 750ml,2,104,83,9.99
+18,Vodka Smirnoff X1 Tamarindo 750ml,2,104,68,9.99
+19,Vodka Stolichnaya Spirit 750ml,2,105,93,14.99
+20,Vodka Absolut Azul 750ml,2,106,103,19.99
+21,Vodka Absolut Mandarin 750ml,2,106,56,22.99
+22,Vodka Absolut Watermelon 750ml,2,106,36,22.99
+23,Whisky Buchanan's 12 anos 750ml,1,107,43,34.99
+24,Whisky Buchanan's Reserva Especial 18 anos 750ml,1,107,12,34.99
+25,Whisky Chivas Regal 12 anos 1L,1,108,12,59.99
+26,Whisky Johnny Walker Red Label,1,109,12,19.99
+27,Whisky Johnny Walker Black Label,1,109,12,49.99
+28,Whisky Johnny Walker Blue Label,1,109,12,109.99
